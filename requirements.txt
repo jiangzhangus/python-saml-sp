@@ -2,7 +2,7 @@ cryptography==43.0.1
 Flask==2.2.5
 Flask-Cors==5.0.0
 lxml==5.2.2
-pyOpenSSL==24.1.0
+pyOpenSSL==24.3.0
 pysaml2==7.5.0
 Werkzeug==3.0.3
 xmltodict==0.13.0
